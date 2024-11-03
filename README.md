@@ -34,7 +34,7 @@ I'm studying in Incheon National University.
 	<a href="https://www.instagram.com/d6ng_gyun">
 		<img src = "https://img.shields.io/badge/INSTAGRAM-E4405F?logo=Instagram&logoColor=white">
 	<a href="steem3246@gmail.com">
-		<img src = "https://img.shields.io/badge/GMAIL-E4405F?logo=GMAIL&logoColor=white">
+		<img src = "https://img.shields.io/badge/GMAIL-EA4335?logo=GMAIL&logoColor=white">
 </div>
 
 <br>
