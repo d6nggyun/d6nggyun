@@ -12,16 +12,6 @@ I'm studying in Incheon National University.
 
 <br>
 
-<h3 align="center">🛠️ Tool 🛠️</h3>
-<div align="center">
-	<img src = "https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white">
-	<img src = "https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white">
-	<img src = "https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white">
-	<img src = "https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white">
-</div>
-
-<br>
-
 <h3 align="center">✉️ Contact ✉️</h3>
 <div align="center">
 	<a href="https://www.instagram.com/d6ng_gyun">
