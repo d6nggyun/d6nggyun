@@ -5,13 +5,6 @@ Hi there 👋
 I'm studying in Incheon National University.
 
 <h3 align="center">💻 Tech Stack 💻</h3>
-<div align="center">
-	<img src = "https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">
-	<img src = "https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white">
-	<img src = "https://img.shields.io/badge/JAVA-A8B9CC?logo=JAVA&logoColor=white">
-</div>
-
-<br>
 
 <div align="center">
 	<img src = "https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white">
