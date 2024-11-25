@@ -2,8 +2,6 @@ Hi there 👋
 
 <br>
 
-I'm studying in Incheon National University.
-
 <h3 align="center">💻 Tech Stack 💻</h3>
 
 <div align="center">
