@@ -26,4 +26,4 @@ Hi there 👋
 </div>
 
 
-!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=d6nggyun&show_icons=true&theme=radical)
+<!-- !['s GitHub stats](https://github-readme-stats.vercel.app/api?username=d6nggyun&show_icons=true&theme=radical) -->
