@@ -25,5 +25,8 @@ Hi there 👋
 
 </div>
 
+<div align="center">
 
 !['s GitHub stats](https://github-readme-stats.vercel.app/api?username=d6nggyun&show_icons=true&theme=radical)
+
+</div>
