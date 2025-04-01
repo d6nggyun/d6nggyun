@@ -12,7 +12,7 @@ Hi there 👋
 
 <h3 align="center">✉️ Contact ✉️</h3>
 <div align="center">
-	<a href="https://www.instagram.com/d6ng_gyun">
+	<a href="https://www.instagram.com/d6nggyun">
 		<img src = "https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </div>
 
