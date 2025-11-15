@@ -3,8 +3,8 @@
 <div align="start">
 <h3>안녕하세요, 서버 개발자 김동균입니다!</h3>
 
-> 끊임없이 배우고 성장하는 개발자가 되고 싶습니다.   
-모든 경험을 배움의 기회로 삼아, 매 순간 발전하는 것을 목표로 합니다.
+> 사소한 부분이라도 그 이유와 근거를 찾는 과정을 즐깁니다, <Br>
+> 문제의 원인을 논리적으로 분석하고, 부족한 근거를 스스로 채워가며 더 나은 결정을 내리려 노력합니다.
 
 <br>
 <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
