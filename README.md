@@ -16,7 +16,7 @@
 <h3>🗒️ Work Experience</h3>
 
 > `2025.03 - 2025.11` INU Appcenter Server Part 17th <br>
-`2025.03 - 2025.09` Kakao x goorm 9oormthon UNIV 4th Server Part<br>
+`2025.03 - 진행 중` Kakao x goorm 9oormthon UNIV 4th Server Part<br>
 
 <br>
 <!-- <div align="start">
