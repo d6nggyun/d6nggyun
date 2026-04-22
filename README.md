@@ -11,18 +11,3 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis&theme=dark)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=docker,aws&theme=dark)](https://skillicons.dev)
-
-
-<h3>🗒️ Work Experience</h3>
-
-> `2025.03 - 진행 중` INU Appcenter Server Part 17th <br>
-`2025.03 - 2025.09` Kakao x goorm 9oormthon UNIV 4th Server Part<br>
-
-<br>
-<!-- <div align="start">
-
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=steem3246)](https://solved.ac/steem3246)
-
-</div> -->
-
