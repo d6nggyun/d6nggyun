@@ -7,6 +7,4 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis&theme=dark)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=docker,aws&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,aws&theme=dark)](https://skillicons.dev)
